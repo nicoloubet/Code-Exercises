@@ -1,2 +1,2 @@
-# VS---Exercises
+# VS---Exercises & Console applications
 Various exercises completed while in the MSSA Program.
